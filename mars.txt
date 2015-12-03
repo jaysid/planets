@@ -3,3 +3,5 @@
 This is the second line of the document
 
 This is the third line of the document
+
+Fourth line of the document
